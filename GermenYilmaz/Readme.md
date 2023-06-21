@@ -502,16 +502,11 @@ In Advances in Neural Information Processing Systems (NeurIPS), pp. 1025–1035,
 [^filter]: Wang, X., He, X., Wang, M., Feng, F., & Chua, T.-S. (2019). Neural Graph Collaborative Filtering. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. doi:10.1145/3331184.3331267
 
   
-
-
-  
-
-# Contact
+---
 
   
+
+# Contact  
 
 Deniz Germen ([germen.deniz@ceng.metu.edu.tr](germen.deniz@ceng.metu.edu.tr))
-
-  
-
 Ardan Yılmaz ([yilmaz.ardan@ceng.metu.edu.tr](yilmaz.ardan@ceng.metu.edu.tr))
