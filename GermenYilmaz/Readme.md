@@ -496,22 +496,13 @@ According to the given context, the generation of pseudo nodes can be done to gi
 
 [^bpr]: Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2012). BPR: Bayesian Personalized Ranking from Implicit Feedback. arXiv preprint arXiv:1205.2618.
 
-[^SAGE]:  William L Hamilton, Rex Ying, and Jure Leskovec. Inductive representation learning on large graphs.
-In Advances in Neural Information Processing Systems (NeurIPS), pp. 1025–1035, 2017.
+[^SAGE]:  William L Hamilton, Rex Ying, and Jure Leskovec. Inductive representation learning on large graphs. In Advances in Neural Information Processing Systems (NeurIPS), pp. 1025–1035, 2017.
 
 [^filter]: Wang, X., He, X., Wang, M., Feng, F., & Chua, T.-S. (2019). Neural Graph Collaborative Filtering. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. doi:10.1145/3331184.3331267
 
-  
 
+# Contact  
 
-  
-
-# Contact
-
-  
-
-Deniz Germen ([germen.deniz@ceng.metu.edu.tr](germen.deniz@ceng.metu.edu.tr))
-
-  
-
+Deniz Germen ([germen.deniz@ceng.metu.edu.tr](germen.deniz@ceng.metu.edu.tr))  
 Ardan Yılmaz ([yilmaz.ardan@ceng.metu.edu.tr](yilmaz.ardan@ceng.metu.edu.tr))
+
