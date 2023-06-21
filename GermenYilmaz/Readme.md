@@ -371,7 +371,7 @@ python TuneUp.py my_trained_model train --training_type tuneup --lr 0.0002 --wei
 
 `WARNING` It priotizes MPS > CUDA > CPU.
 
-### 3.2.3 Running Times
+### 3.2.3 Running Times
 
 Any kind of testing and training was painstakingly slow in tried CPUs (M1) and Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz 1.80 GHz.
 
