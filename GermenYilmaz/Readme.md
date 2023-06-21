@@ -488,6 +488,13 @@ According to the given context, the generation of pseudo nodes can be done to gi
 
 @TODO: Discuss the paper in relation to the results in the paper and your results.
 
+
+# Contact
+
+Deniz Germen ([germen.deniz@ceng.metu.edu.tr](germen.deniz@ceng.metu.edu.tr))  
+
+Ardan Yılmaz ([yilmaz.ardan@ceng.metu.edu.tr](yilmaz.ardan@ceng.metu.edu.tr))
+
   
 
 # 5. References  
@@ -506,12 +513,3 @@ In Advances in Neural Information Processing Systems (NeurIPS), pp. 1025–1035,
 
   
 
-# Contact
-
-  
-
-Deniz Germen ([germen.deniz@ceng.metu.edu.tr](germen.deniz@ceng.metu.edu.tr))
-
-  
-
-Ardan Yılmaz ([yilmaz.ardan@ceng.metu.edu.tr](yilmaz.ardan@ceng.metu.edu.tr))
